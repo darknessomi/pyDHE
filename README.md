@@ -36,7 +36,7 @@ To specify a different generator, prime group or private key size, specify them 
 The class initializer does some *basic* sanity checks on supplied values.
 
 ## Security
-The DiffieHellman class uses parameters recommended by [RFC 3562](http://www.rfc-editor.org/rfc/rfc3526.txt) for generation of a 256-bit key. Check the spec for other key sizes and options.
+The DiffieHellman class uses parameters recommended by [RFC 3526](http://www.rfc-editor.org/rfc/rfc3526.txt) for generation of a 256-bit key. Check the spec for other key sizes and options.
 
 ## License
 This program is free software: you can redistribute it and/or modify
